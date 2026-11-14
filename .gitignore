@@ -1,0 +1,6 @@
+# Collected run output — regenerated on demand, never committed.
+runs/
+
+# Local scratch
+*.log
+*.tmp
